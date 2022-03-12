@@ -22,4 +22,5 @@ class CursoController extends Controller
             return "Bienvenido al curso: $curso";
         }
     }
+    
 }
